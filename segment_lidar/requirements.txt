@@ -1,0 +1,11 @@
+pycocotools
+click
+opencv-python
+numpy
+supervision
+segment-geospatial
+rasterio
+laspy
+laszip
+cloth-simulation-filter
+open3d
